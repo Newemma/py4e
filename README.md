@@ -3,6 +3,7 @@ Coursera Specialization : Python for Everybody Specialization
 
 My record of Python for everyone.
 I got lots of help from @AmaniAbbas,thanks!
+I'll development this repository later.
 
 ** 3 Courses : **
 
